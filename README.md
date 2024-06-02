@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação com Leonardo.Ai ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Para esse projeto foi meu primerio contat com a ferramenta de IA Leonardo.Ai, a qual fiquei muito supreso com a velocidade em que a ferramenta trabalha.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Leonardo.Ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+conforme solicitado pelo projeto criei um prompt onde foi criado a uma imagem sobre IA e outra sem IA(netter or not) 
 
 ## 🚀 Resultados
+
+![Default_Create_a_creative_video_that_talks_about_generative_AI_1](https://github.com/cristiano-araujo/lab-natty-or-not/assets/13604145/99062694-c7ab-4563-a48d-cc04da116e46)
+![Default_Create_a_creative_video_that_talks_about_normal_1](https://github.com/cristiano-araujo/lab-natty-or-not/assets/13604145/21e33727-6d9e-45ef-b0b1-1ed469e512a6)
+
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Fiquei muito feliz visto que as IA estão ai para nos ajudar, mesmo que em imagem, video, audio ate mesmo em nos ajudar com codigos.
 ```
 
 ### Exemplos e Insigths
